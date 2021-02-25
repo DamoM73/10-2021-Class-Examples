@@ -1,1 +1,5 @@
-print(4<6)
+import time
+
+print("Now")
+time.sleep(2)
+print("Now")
